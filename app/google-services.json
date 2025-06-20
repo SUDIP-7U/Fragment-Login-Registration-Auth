@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "588391392730",
+    "project_id": "howcute-d7eea",
+    "storage_bucket": "howcute-d7eea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588391392730:android:946436c118277d49648ce3",
+        "android_client_info": {
+          "package_name": "com.example.fireauthretrofit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfLrAOU2Kaq5DloA0qxtw2fWEt60TPOUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588391392730:android:2f0c1c6af05c483c648ce3",
+        "android_client_info": {
+          "package_name": "com.example.psychoiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfLrAOU2Kaq5DloA0qxtw2fWEt60TPOUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588391392730:android:57d0e863d4a05e8c648ce3",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfLrAOU2Kaq5DloA0qxtw2fWEt60TPOUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
